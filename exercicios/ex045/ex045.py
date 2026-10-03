@@ -1,0 +1,1 @@
+# Crie um programa que faça o computador jogar Jokenpô (pedra, papel e tesoura) contra o usuário.
