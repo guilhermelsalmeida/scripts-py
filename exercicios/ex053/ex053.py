@@ -1,0 +1,1 @@
+# Crie um programa que leia uma frase qualquer e diga se ela é um palíndromo (frase que pode ser lida de frente para trás e de trás para frente da mesma forma, desconsiderando os espaços e acentos). Exemplos: "Após a sopa", "A sacada da casa", "A torre da derrota".
