@@ -1,0 +1,1 @@
+# Simular o funcionamento de um caixa eletrônico. O usuário informa o valor a ser sacado (número inteiro) e o programa informa quantas cédulas de R$ 50, R$ 20, R$ 10 e R$ 1 serão entregues.

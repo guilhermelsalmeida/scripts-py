@@ -1,0 +1,1 @@
+# Ler a idade e o sexo de várias pessoas com uma pergunta de continuação ("Quer continuar?"). No final, informar: 1) Quantas pessoas têm mais de 18 anos; 2) Quantos homens foram cadastrados; e 3) Quantas mulheres têm menos de 20 anos.

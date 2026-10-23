@@ -1,0 +1,1 @@
+# Ler o nome e o preço de vários produtos, perguntando se o usuário quer continuar. No final, mostrar: 1) O total gasto na compra; 2) Quantos produtos custam mais de 1000 reais; e 3) O nome do produto mais barato.
